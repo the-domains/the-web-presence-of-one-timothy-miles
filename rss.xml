@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[The web presence of one Timothy Miles]]></title>
         <description><![CDATA[The web presence of one Timothy Miles]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-web-presence-of-one-timothy-miles/</link>
         <generator>The Grid</generator>
         <lastBuildDate>Sat, 21 May 2016 15:29:36 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://thegrid.ai/the-web-presence-of-one-timothy-miles/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Design School's Ultimate Guide to Designing With Backgrounds [With Ready-to-Use Templates]]]></title>
+            <description><![CDATA[<article><h1>The Design School's Ultimate Guide to Designing With Backgrounds [With Ready-to-Use Templates]</h1><p>Design is a plan for arranging elements in such a way as to accomplish a particular purpose. - Charles Eames In order to arrange your design, you need a place to start. Backgrounds are the foundation of your graphics - it helps pave the path to forming a successful composition.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/877d79945943ec595c9e850987ca4480cd3a921f.jpg"></article>]]></description>
+            <link>https://designschool.canva.com/blog/background-design/</link>
+            <guid isPermaLink="false">50a4db81-0859-4dbc-95ea-380a3aeba480</guid>
+            <pubDate>Sat, 21 May 2016 15:29:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Techies Project by Photographer Helena Price]]></title>
             <description><![CDATA[<article><h1>Techies Project by Photographer Helena Price</h1><p>The two words "Silicon Valley" immediately stir up stereotypes, stigma and maybe an HBO show. The name has become a cultural reflex, and that's what photographer Helena Price wants to change with her ambitious, large-scale portrait and interview series. Techies Project, launched today, is a collection of 100 in-depth interviews that breaks this idea of the "sameness" plaguing the area.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a7265c5abd944ed7ad3fdd9c9b6270021b13537b.jpg"></article>]]></description>
